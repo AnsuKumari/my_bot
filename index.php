@@ -1,5 +1,5 @@
 <?php
 
-	echo "This is my first php file!";
+	print_r($_GET["hub_challenge"]);
 
 ?> 
